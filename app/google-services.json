@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784969876704",
+    "firebase_url": "https://chatfdatabase.firebaseio.com",
+    "project_id": "chatfdatabase",
+    "storage_bucket": "chatfdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784969876704:android:19511c15068542a0093c85",
+        "android_client_info": {
+          "package_name": "com.bkteam.ohmychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784969876704-jlovqkgvb93fo0jian2a4mkanp2u066l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRQFt_RwJNOmn3CnQ91awzWKb00E0G34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784969876704-jlovqkgvb93fo0jian2a4mkanp2u066l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
