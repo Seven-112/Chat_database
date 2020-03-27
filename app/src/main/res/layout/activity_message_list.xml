@@ -54,15 +54,15 @@
             android:id="@+id/send_message_btn"
             android:layout_width="64dp"
             android:layout_height="48dp"
-            android:scaleType="fitCenter"
+            android:layout_gravity="bottom"
             android:background="@drawable/send_button"
+            android:clickable="true"
+            android:scaleType="fitCenter"
             android:scaleX="0.7"
             android:scaleY="0.7"
-            android:tint="@color/colorMyMessage"
             android:src="@drawable/send"
-            android:layout_gravity="bottom"
-            android:clickable="true"
-            />
+            android:tint="@color/colorMyMessage"
+            tools:layout_gravity="center" />
 
     </LinearLayout>
 
